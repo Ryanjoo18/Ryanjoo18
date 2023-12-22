@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Ryanjoo18/Ryanjoo18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm a high school student and an aspiring data analyst, currently studying for my A Levels in Singapore. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
