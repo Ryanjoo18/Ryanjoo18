@@ -1,4 +1,4 @@
-### Hi there 👋
+# 🏄‍♂️ Ryan Joo
 
 I'm a high school student and an aspiring data analyst, currently studying for my A Levels in Singapore. 
 
