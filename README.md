@@ -20,7 +20,7 @@ I'm a high school student and an aspiring data analyst, currently studying for m
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanjoo18&show_icons=true&theme=gruvbox)
+![Ryan Joo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanjoo18&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Ryanjoo18&theme=gruvbox&border_radius=4.5) -->
 
