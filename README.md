@@ -12,7 +12,6 @@ I'm a high school student and an aspiring data analyst, currently studying for m
 - 📫 How to reach me: email
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like playing chess.
--->
 
 ### 📺 Latest Projects
 
