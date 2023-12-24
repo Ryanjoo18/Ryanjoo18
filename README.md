@@ -27,6 +27,6 @@ I'm a high school student and an aspiring data analyst, currently studying for m
 
 <details>
  <summary><h3>👨‍💻 Ryan Joo's Coding Journey</h3></summary>
-   I started my coding journey as 
+ My coding journey has been a progressive exploration. It began in 2019 with Python, primarily focused on problem-solving through platforms such as Codeforces. In early 2023, I picked up LaTeX, honing the skill to write professional papers effectively. Later in the same year, my interest expanded as I familiarised myself with HTML and CSS to craft and personalise my website. Presently, I am actively engaged in learning R and SQL, further enriching my programming repertoire.
 
 [website]: https://ryanjoo18.github.io
