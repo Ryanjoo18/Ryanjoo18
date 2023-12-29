@@ -9,8 +9,8 @@ I'm a high school student and an aspiring data analyst, currently studying for m
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Mathematics, Physics, or anything in general!
-- 📫 How to reach me: email
-- 😄 Pronouns: he/him
+- 📫 How to reach me: **email**
+- 😄 Pronouns: **he/him**
 - ⚡ Fun fact: I like playing chess.
 
 ### 📺 Latest Projects
