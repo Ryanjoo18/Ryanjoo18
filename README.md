@@ -1,14 +1,12 @@
 # 🏄‍♂️ Ryan Joo
 
-**`Aspiring Data Analyst`**
+**`Aspiring undergraduate student`**
 
-I'm a high school student and an aspiring data analyst, currently studying for my A Levels in Singapore. 
+I'm a high school student and an aspiring undergraduate student, currently studying for my A Levels in Singapore. 
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Mathematics, Physics, or anything in general!
+- 🌱 I’m currently learning university mathematics, physics, and some data science.
+- 💬 Ask me about mathematics, physics, or anything in general!
 - 📫 How to reach me: **email**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: I like playing chess.
