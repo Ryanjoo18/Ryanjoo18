@@ -1,30 +1,34 @@
-# 🏄‍♂️ Ryan Joo
+# Ryan Joo
 
 **`Aspiring undergraduate student`**
 
-I'm a high school student and an aspiring undergraduate student, currently studying for my A Levels in Singapore. 
+### 👋 Hi there
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning university mathematics, physics, and some data science.
-- 💬 Ask me about mathematics, physics, or anything in general!
-- 📫 How to reach me: **email**
-- 😄 Pronouns: **he/him**
-- ⚡ Fun fact: I like playing chess.
+I'm a high school student and an aspiring undergraduate student, currently studying for my A-levels in Singapore. I'm currently learning university mathematics and physics. I also enjoy playing chess as a hobby. Feel free to reach me via email.
 
-### 📺 Latest Projects
+### Skills
 
-### 📔 Publications
+- Programming: Python, LaTeX, R, HTML, CSS, JavaScript
+- Libraries: numpy, pandas, matplotlib, seaborn, scikit-learn
+- Softwares: VS Code, GitHub, Overleaf, TeXstudio, RStudio, Google Colab, Kali Linux
+- Languages: English (native), Chinese (native), Malay (native), German (limited proficiency)
 
 ### 📊 Stats
 
-![Ryan Joo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanjoo18&show_icons=true&theme=gruvbox)
+![Ryan Joo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanjoo18&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanjoo18&layout=compact)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Ryanjoo18&theme=gruvbox&border_radius=4.5) -->
 
-#
+### Social
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ryanjoo18)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ryan-joo-rui-an/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Ryanjoo18)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ryan.joo18/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/16320213/ryanjoo18)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ryanjoo18.github.io/)
+
+<!--
 <details>
  <summary><h3>👨‍💻 Ryan Joo's Coding Journey</h3></summary>
  My coding journey has been a progressive exploration. It began in 2019 with Python, primarily focused on problem-solving through platforms such as Codeforces. In early 2023, I picked up LaTeX, honing the skill to write professional papers effectively. Later in the same year, my interest expanded as I familiarised myself with HTML and CSS to craft and personalise my website. Presently, I am actively engaged in learning R and SQL, further enriching my programming repertoire.
+-->
 
 [website]: https://ryanjoo18.github.io
