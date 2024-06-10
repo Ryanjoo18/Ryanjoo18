@@ -8,6 +8,8 @@ I'm a high school student and an aspiring undergraduate student, currently study
 
 ### Skills
 
+[![My Skills](https://skillicons.dev/icons?i=py,latex,r,html,css,js&perline=10)](https://skillicons.dev)
+
 - Programming: Python, LaTeX, R, HTML, CSS, JavaScript
 - Libraries: numpy, pandas, matplotlib, seaborn, scikit-learn
 - Softwares: VS Code, GitHub, Overleaf, TeXstudio, RStudio, Google Colab, Kali Linux
