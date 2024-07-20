@@ -10,11 +10,6 @@ I'm a high school student and an aspiring undergraduate student, currently study
 
 [![My Skills](https://skillicons.dev/icons?i=py,latex,r,html,css,js&perline=10)](https://skillicons.dev)
 
-- Programming: Python, LaTeX, R, HTML, CSS, JavaScript
-- Libraries: numpy, pandas, matplotlib, seaborn, scikit-learn
-- Softwares: VS Code, GitHub, Overleaf, TeXstudio, RStudio, Google Colab, Kali Linux
-- Languages: English (native), Chinese (native), Malay (native), German (limited proficiency)
-
 ### 📊 Stats
 
 ![Ryan Joo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanjoo18&show_icons=true)
