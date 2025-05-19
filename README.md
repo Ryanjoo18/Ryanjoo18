@@ -1,10 +1,10 @@
 # Ryan Joo
 
-**`Aspiring undergraduate student`**
+**`Incoming Maths & CS undergraduate student`**
 
 ### 👋 Hi there
 
-I'm a high school student and an aspiring undergraduate student, currently studying for my A-levels in Singapore. I'm currently learning university mathematics and physics. I also enjoy playing chess as a hobby. Feel free to reach me via email.
+I am an incoming Mathematics and Computer Science undergraduate at the National University of Singapore (NUS). I also enjoy playing chess as a hobby. Feel free to reach me via email.
 
 ### Skills
 
