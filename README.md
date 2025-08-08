@@ -1,6 +1,6 @@
 # Ryan Joo
 
-**`Incoming Maths & CS undergraduate student`**
+<!--**`Incoming Maths & CS undergraduate student`** -->
 
 ### 👋 Hi there
 
