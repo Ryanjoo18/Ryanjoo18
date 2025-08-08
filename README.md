@@ -4,7 +4,9 @@
 
 ### 👋 Hi there
 
-I am an incoming Mathematics and Computer Science undergraduate at the National University of Singapore (NUS). I also enjoy playing chess as a hobby. Feel free to reach me via email.
+I am a Year 1 Mathematics and Computer Science undergraduate at the National University of Singapore (NUS). 
+I also enjoy playing chess as a hobby. 
+Feel free to reach me via email.
 
 ### Skills
 
